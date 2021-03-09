@@ -10,16 +10,15 @@
 </p>
 
 <p style="margin-top: 32px">
-I'm Guilherme Alves dos Santos, student of
-Analysis and Systems Development at <a href='https://www.impacta.edu.br/' style="color: #00bcd4">Faculdade Impacta Tecnologia</a> and web programming languages at <a href='https://rocketseat.com.br/' style="color: #7159c1">Rocketseat Launchbase Bootmcamp</a> :green_heart:. 19 years old and search for my first oportunity in an internship. I love to play competitive games :video_game:, watch series and movies :tv:. In my free time a like to draw :black_nib:.
+I'm Guilherme Alves dos Santos, I have a degree in
+Analysis and Systems Development at <a href='https://www.impacta.edu.br/' style="color: #00bcd4">Faculdade Impacta Tecnologia</a> and I'm Jr Backend developer. Now I'm focused on <a href='https://rocketseat.com.br/' style="color: #7159c1">Rocketseat</a> Ignite program :green_heart:. I'm 20 years old and I love to play competitive games :video_game:, watch series and movies :tv:. In my free time a like to draw :black_nib:.
 </p>
 
 - 🌱 I’m currently studying about:
   - **API's** standards
-  - Full Stack technologies like NodeJs, JavaScripts, HTML, CSS...
+  - Backend technologies like NodeJs, TypeScript, Design Patterns, Docker and others.
   - Best code standards and performace.
-  - React and ReactNative
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working at **LinkApi Solutions**
 - ⚡ Fun fact: When i'm not focused on programming, i love to draw anime characters!
 
 
@@ -31,8 +30,7 @@ Languagens and tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-A-Santos&theme=tokyonight&layout=compact)](https://github.com/Guilherme-A-Santos/github-readme-stats)
 
