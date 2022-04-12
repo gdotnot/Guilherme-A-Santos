@@ -11,7 +11,7 @@
 
 <p style="margin-top: 32px">
 I'm Guilherme Alves dos Santos, I have a degree in
-Analysis and Systems Development at <a href='https://www.impacta.edu.br/' style="color: #00bcd4">Faculdade Impacta Tecnologia</a> and I'm Jr Backend developer. Now I'm focused on <a href='https://rocketseat.com.br/' style="color: #7159c1">Rocketseat</a> Ignite program :green_heart:. I'm 20 years old and I love to play competitive games :video_game:, watch series and movies :tv:. In my free time a like to draw :black_nib:.
+Analysis and Systems Development at <a href='https://www.impacta.edu.br/' style="color: #00bcd4">Faculdade Impacta Tecnologia</a> and I'm Jr Backend developer. Now I'm focused on <a href='https://rocketseat.com.br/' style="color: #7159c1">Rocketseat</a> Ignite program :green_heart:. I'm 21 years old and I love to play competitive games :video_game:, watch series and movies :tv:. In my free time a like to draw :black_nib:.
 </p>
 
 - 🌱 I’m currently studying about:
