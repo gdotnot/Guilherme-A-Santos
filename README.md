@@ -10,16 +10,16 @@
 <p style="margin-top: 32px">
 My name is Guilherme Alves dos Santos, I've completed my degree in Analysis and Systems Development at <a href='https://www.impacta.edu.br/' style="color: #00bcd4">Faculdade Impacta Tecnologia</a> and I'm working as Back-End developer. Now I'm focused on learning software development best practices and the cloud computing ecosystem.
 
-In my free time, I love to watch series and movies 📺:, play video games (RDR2 is my favorite one 💖:) and I am also passionate about sculpting in clay 🎨:
+In my free time, I love to watch series and movies 📺, play video games (RDR2 is my favorite one 💖) and I am also passionate about sculpting in clay 🎨
 </p>
 
 - :thinking: <span style="color:#ffb86c		">What am I studying?</span>
   - Best software development standards like Clean Code, Clean Architecture, and software architecture solutions.
-  - Backend technologies like NodeJs, TypeScript, Go Lang, Design Patterns, Docker, and Kubernets.
+  - Backend technologies like NodeJs, TypeScript, Go Lang, Design Patterns, Docker, and Kubernetes.
   - NodeJs practices to improve my application's performance.
   - AWS Cloud Services
 - 🔭 I’m currently working at <a href='https://en.semantix.ai/' style="color: #7159c1">Semantix Brasil</a>
-- 🏡:	I live at Guarulhos, SP - Brazil
+- 🏡 I live at Guarulhos, SP - Brazil
 
 
 ---
