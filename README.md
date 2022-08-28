@@ -10,7 +10,7 @@
 <p style="margin-top: 32px">
 My name is Guilherme Alves dos Santos, I've completed my degree in Analysis and Systems Development at <a href='https://www.impacta.edu.br/' style="color: #00bcd4">Faculdade Impacta Tecnologia</a> and I'm working as Back-End developer. Now I'm focused on learning software development best practices and the cloud computing ecosystem.
 
-In my free time, I love to watch series and movies :tv:, play video games (RDR2 is my favorite one :sparkling_heart:) and I am also passionate about sculpting in clay :joy:
+In my free time, I love to watch series and movies 📺:, play video games (RDR2 is my favorite one 💖:) and I am also passionate about sculpting in clay 🎨:
 </p>
 
 - :thinking: <span style="color:#ffb86c		">What am I studying?</span>
@@ -19,7 +19,7 @@ In my free time, I love to watch series and movies :tv:, play video games (RDR2 
   - NodeJs practices to improve my application's performance.
   - AWS Cloud Services
 - 🔭 I’m currently working at <a href='https://en.semantix.ai/' style="color: #7159c1">Semantix Brasil</a>
-- :house:	I live at Guarulhos, SP - Brazil
+- 🏡:	I live at Guarulhos, SP - Brazil
 
 
 ---
@@ -35,7 +35,7 @@ In my free time, I love to watch series and movies :tv:, play video games (RDR2 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 ---
-<h3 style="color: #bd93f9	">My stats :relaxed:</h3>
+<h3 style="color: #bd93f9	">My stats ☺️:</h3>
 
 <p style="margin-top: 32px">
 
