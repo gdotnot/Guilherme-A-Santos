@@ -1,7 +1,8 @@
-## Hello everybody👋, my name is Guilherme!
-### A lover of full stack technologies and backend development from Guarulhos, SP - Brazil
+## Hey, my name is Guilherme!
 
-<P style="margin-top: 20px">
+<div style="display: flex; align-items: center">
+<P style="margin-top: 20px;">
+</div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-alves-dos-santos/)](https://www.linkedin.com/in/guilherme-alves-dos-santos/)
 [![Gmail Badge](https://img.shields.io/badge/-g.dotnot@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g.dotnot@gmail.com)](mailto:g.dotnot@gmail.com)
@@ -10,15 +11,19 @@
 </p>
 
 <p style="margin-top: 32px">
-I'm Guilherme Alves dos Santos, I have a degree in
-Analysis and Systems Development at <a href='https://www.impacta.edu.br/' style="color: #00bcd4">Faculdade Impacta Tecnologia</a> and I'm Jr Backend developer. Now I'm focused on <a href='https://rocketseat.com.br/' style="color: #7159c1">Rocketseat</a> Ignite program :green_heart:. I'm 21 years old and I love to play competitive games :video_game:, watch series and movies :tv:. In my free time a like to draw :black_nib:.
+My name is Guilherme Alves dos Santos, I've completed my degree in
+Analysis and Systems Development at <a href='https://www.impacta.edu.br/' style="color: #00bcd4">Faculdade Impacta Tecnologia</a> and I'm working Back-End developer. Now I'm focused on learning software development best practices and cloud computing ecosystem.
+
+At my free time, I love to watch series and movies :tv:, play video games (RDR2 is my favorite one :sparkling_heart:) and I also passionate about sculpiting in clay :joy:
 </p>
 
-- 🌱 I’m currently studying about:
-  - **API's** standards
-  - Backend technologies like NodeJs, TypeScript, Design Patterns, Docker and others.
-  - Best code standards and performace.
-- 🔭 I’m currently working at **LinkApi Solutions**
+- What am I studying? :thinking::
+  - Best software development standards like Clean Code, Clean Architecture and software architecture solutions.
+  - Backend technologies like NodeJs, TypeScript, Go Lang, Design Patterns, Docker and Kubernets.
+  - NodeJs practices to improve my applications performance.
+  - AWS Cloud Services
+- 🔭 I’m currently working at <a href='https://en.semantix.ai/' style="color: #7159c1">Semantix Brasil</a>
+- I live at Guarulhos, SP - Brazil
 - ⚡ Fun fact: When i'm not focused on programming, i love to draw anime characters!
 
 
@@ -32,12 +37,14 @@ Languagens and tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-A-Santos&theme=tokyonight&layout=compact)](https://github.com/Guilherme-A-Santos/github-readme-stats)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdotnot&theme=tokyonight&layout=compact)](https://github.com/gdotnot/github-readme-stats)
 
 ---
 ### View my stats on GitHub :heart_eyes:!
 <!--
-**Guilherme-A-Santos/Guilherme-A-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gdotnot/gdotnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -50,7 +57,7 @@ Here are some ideas to get you started:
 -->
 <p style="margin-top: 32px">
 
-![Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=Guilherme-A-Santos&show_icons=true&theme=tokyonight)
+![Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=gdotnot&show_icons=true&theme=tokyonight)
 
 </p>
 
